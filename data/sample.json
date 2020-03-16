@@ -1,0 +1,15 @@
+{
+	"id": 14,
+	"firstName": "Adi",
+	"lastName": "Ksh",
+	"active": true,
+	"address": {
+		"street": "Vishnupuram",
+		"city": "Gorakhpur",
+		"state": "UP",
+		"zip": "273004",
+		"country": "India"
+	},
+	"languages": ["Java", "C++", "Python", "JS"],
+	"company": "SocGen"
+}
